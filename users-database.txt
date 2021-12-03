@@ -1,0 +1,4 @@
+1,nuel,123,manager
+2,frans,321,cashier
+3,rafael,321,cashier
+4,Ela,445,cashier
